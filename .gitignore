@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Generated binaries and objects
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# IDE/editor files
+.vscode/
+.idea/
